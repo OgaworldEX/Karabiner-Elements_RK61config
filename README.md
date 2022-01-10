@@ -14,9 +14,9 @@ https://rkgamingstore.com/collections/61-keys
 - capslock -> 左コマンド
 - applicationキー -> 右control
 - 右control + [ -> 上カーソル
-- 右control + / -> 下矢印
-- 右control + ; -> 左矢印
-- 右control + ' -> 右矢印
+- 右control + / -> 下カーソル
+- 右control + ; -> 左カーソル
+- 右control + ' -> 右カーソル
 - 右control + 1〜0 -> F1〜F10
 - 右control + - -> F11
 - 右control + = -> F12
